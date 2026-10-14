@@ -1,0 +1,9 @@
+{
+  "name": "VALJALA STOK",
+  "short_name": "VALJALA STOK",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071613",
+  "theme_color": "#071b18",
+  "description": "Inventario de cocina y generación de cierre para WhatsApp"
+}

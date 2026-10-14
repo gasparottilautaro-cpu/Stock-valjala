@@ -1,0 +1,19 @@
+VALJALA STOK — Inventario y cierre de cocina
+
+Incluye:
+- index.html: aplicación web con estética nórdica/vikinga sutil.
+- manifest.json y sw.js: soporte básico para instalar como PWA cuando se publique con HTTPS.
+
+PRUEBA LOCAL
+Abrí index.html en un navegador moderno. Los datos se guardan en el almacenamiento local del navegador.
+
+INSTALACIÓN COMO APP EN ANDROID (PWA)
+1. Publicá estos archivos en un alojamiento HTTPS.
+2. Abrí la dirección en Chrome para Android.
+3. Menú ⋮ > Instalar aplicación o Añadir a pantalla principal.
+
+APK NATIVO
+Este paquete no contiene todavía un APK compilado. Para generar un .apk nativo hace falta compilar un proyecto Android con Android SDK/Gradle o usar un servicio de empaquetado. El entorno de preparación actual no dispone del SDK Android configurado para compilarlo directamente.
+
+IMPORTANTE
+Los datos quedan guardados en el navegador/dispositivo y no se sincronizan con otros teléfonos. Conservá el mismo navegador y dispositivo.
